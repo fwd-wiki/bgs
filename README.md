@@ -1,1 +1,2 @@
-# bgs
+# Fwd: Extension background images
+
